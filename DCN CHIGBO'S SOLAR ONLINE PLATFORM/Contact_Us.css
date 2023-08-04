@@ -1,0 +1,19 @@
+.navbar .nav-link{
+    margin-right: 30px;
+    padding: 25px 0;
+}
+
+/* for image after nav - bar  */
+/*.image_section{
+    background-image: url('./IMAGES/feature.jpg');
+    height: 100px;
+}
+*/
+
+SolarPanel{
+    display:block;
+    padding: ;
+    height: 200px;
+    width:500px;
+    background-color: skyblue;
+}
